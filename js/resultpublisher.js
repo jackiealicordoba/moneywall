@@ -28,7 +28,7 @@ Singapore: 2 and 5
 /* var currencyNames = {
 
 } */
-
+/*
 galaMoneyWallRef.push({
 	currency : "EUR",
 	value: 5
@@ -62,7 +62,7 @@ galaMoneyWallRef.push({
 galaMoneyWallRef.push({
 	currency : "CAD",
 	value: 20
-});
+});*/
 
 var main = function () {
 	/*bill_collection.set({
